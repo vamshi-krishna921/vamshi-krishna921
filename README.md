@@ -3,15 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vamshi-krishna921" alt="vamshi-krishna921" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio Builder**
+- 🔭 I’m currently working on **Agent Builder**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **DSA + Backend**
 
-- 💬 Ask me about **Html Css Js Gsap Tailwind**
+- 💬 Ask me about **Html Css Js Gsap Tailwind React Figma C Java DSA Git GitHub Tanstack Automation(n8n) Docker**
 
-- 📫 How to reach me **kalluribablu921@gmail.com**
-
-- ⚡ Fun fact **My coding journey feels like an adventure game—React is my sword, Tailwind is my armor, and animations are my magic spells. Ready for the next level!**
+- 📫 How to reach me **kvamshikrishna.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
