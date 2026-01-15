@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vamshi Krishna</h1>
-<h3 align="center">A passionate frontend developer from IndiFrontend Newbie On a Mission to Master the Art of Web Development meaninga</h3>
+<h3 align="center">A passionate software developer, On a Mission to Master the Art of technologies and curiated to move forward in tech world.🌐</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vamshi-krishna921" alt="vamshi-krishna921" /></a> </p>
 
